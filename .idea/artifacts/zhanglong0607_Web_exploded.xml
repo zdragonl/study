@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="zhanglong0607:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/zhanglong0607_Web_exploded</output-path>
+    <root id="root">
+<<<<<<< HEAD
+      <element id="javaee-facet-resources" facet="zhanglong0607/web/Web" />
+=======
+>>>>>>> d66def0 (last commit)
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="zhanglong0607" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+<<<<<<< HEAD
+          <element id="library" level="project" name="lib (2)" />
+        </element>
+      </element>
+=======
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="zhanglong0607/web/Web" />
+>>>>>>> d66def0 (last commit)
+    </root>
+  </artifact>
+</component>
